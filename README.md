@@ -4,6 +4,7 @@
 -🦎​ Studying C and C++  
 -🚀​ Teamwork and Debugging
 
+
 <div>
   <a href="https://https://github.com/Daviddm03">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Daviddm03&show_icons=true&theme=algolia">
