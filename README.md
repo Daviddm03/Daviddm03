@@ -2,7 +2,7 @@
 
 -​📘​​​ I'm currently a student at 4️⃣​2️⃣​ Porto     
 -🦎​ Studying C and C++  
--🚀​ Teamwork and Debugging
+-🚀​ Exploring new languages and technologies
 
 
 <div>
