@@ -1,8 +1,12 @@
-### Olá! Eu sou o David Montaño👽​
+### Hello! I'm David Montaño👽​
 
--​📘​​​ I'm currently a student at 4️⃣​2️⃣​ Porto     
--🦎​ Studying C and C++  
--🚀​ Exploring new languages and technologies
+Front-end Developer focused on transforming ideas into fast and scalable interfaces. My passion is combining the clarity of 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 with the efficiency of 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀.
+
+🛠️ My technical foundation includes practical experience in: API integration and data management (𝗦𝘂𝗽𝗮𝗯𝗮𝘀𝗲/𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟).
+
+🎨 Building interfaces with 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦 and applying Design System and Componentization Principles.
+
+🧠 Strong programming logic and problem-solving skills, developed through the 𝟰𝟮 𝗣𝗼𝗿𝘁𝗼 methodology.
 
 
 <div>
