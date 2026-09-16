@@ -1,6 +1,6 @@
 ### Hi, I'm David.
 
-I'm a frontend developer based in Porto, currently finishing a Software Engineering program at ISTEC. I didn't come from a CS degree — I learned to build software through 42 Porto's peer-to-peer program, which means most of what's below I learned by getting stuck, asking classmates, and rewriting things until they worked.
+I'm a frontend developer based in Porto, currently studying Software Engineering program at ISTEC. I didn't come from a CS degree — I learned to build software through 42 Porto's peer-to-peer program, which means most of what's below I learned by getting stuck, asking classmates, and rewriting things until they worked.
 
 I like the frontend side of things: turning a vague idea into an interface that actually feels good to use. Lately I've been working with React, Next.js and TypeScript, and getting more comfortable wiring that up to real backends — REST APIs, PostgreSQL, Supabase.
 
