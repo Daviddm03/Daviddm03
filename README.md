@@ -1,12 +1,8 @@
-### Hello! I'm David Montaño👽​
+### Hi, I'm David.
 
-Front-end Developer focused on transforming ideas into fast and scalable interfaces. My passion is combining the clarity of 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 with the efficiency of 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀.
+I'm a frontend developer based in Porto, currently finishing a Software Engineering program at ISTEC. I didn't come from a CS degree — I learned to build software through 42 Porto's peer-to-peer program, which means most of what's below I learned by getting stuck, asking classmates, and rewriting things until they worked.
 
-🛠️ My technical foundation includes practical experience in: API integration and data management (𝗦𝘂𝗽𝗮𝗯𝗮𝘀𝗲/𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟).
-
-🎨 Building interfaces with 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦 and applying Design System and Componentization Principles.
-
-🧠 Strong programming logic and problem-solving skills, developed through the 𝟰𝟮 𝗣𝗼𝗿𝘁𝗼 methodology.
+I like the frontend side of things: turning a vague idea into an interface that actually feels good to use. Lately I've been working with React, Next.js and TypeScript, and getting more comfortable wiring that up to real backends — REST APIs, PostgreSQL, Supabase.
 
 
 <div>
@@ -25,6 +21,7 @@ Front-end Developer focused on transforming ideas into fast and scalable interfa
   <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
   <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
   
           
