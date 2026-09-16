@@ -4,10 +4,6 @@ I'm a frontend developer based in Porto, currently finishing a Software Engineer
 
 I like the frontend side of things: turning a vague idea into an interface that actually feels good to use. Lately I've been working with React, Next.js and TypeScript, and getting more comfortable wiring that up to real backends — REST APIs, PostgreSQL, Supabase.
 
-
-![snake gif](https://raw.githubusercontent.com/Daviddm03/Daviddm03/output/github-contribution-grid-snake-dark.svg)
-
-
 <div style="display: inline-block"><br>
   <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="David-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
