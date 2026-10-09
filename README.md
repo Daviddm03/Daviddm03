@@ -35,16 +35,25 @@ A tip calculator inspired by my work in hospitality, distributing staff tips acr
 
 <h3>Connect</h3>
 
+<h3>Connect</h3>
+
 <p>
-  <a href="https://davidmontano.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="32" height="32" alt="Portfolio" />
+  <a href="https://davidmontano.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ddias-mo03/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="32" height="32" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ddias-mo03/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:diasmontanodavid@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="32" height="32" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
