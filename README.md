@@ -9,7 +9,7 @@ I enjoy turning ideas into software that is useful, clear, and enjoyable to use.
 ### Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,c,csharp,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,c,cs,git,linux&theme=dark" />
 </p>
 
 ### Selected Work
