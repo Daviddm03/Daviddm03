@@ -33,33 +33,18 @@ A tip calculator inspired by my work in hospitality, distributing staff tips acr
 
 ---
 
-### Connect
+<h3>Connect</h3>
 
 <p>
-  <a href="https://davidmontano.vercel.app/" title="Portfolio">
-    <img
-      src="https://cdn.jsdelivr.net/npm/@fortawesome/free-solid-svg-icons/svgs/globe.svg"
-      width="32"
-      height="32"
-      alt="Portfolio"
-    />
+  <a href="https://davidmontano.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ddias-mo03/" title="LinkedIn">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-      width="32"
-      height="32"
-      alt="LinkedIn"
-    />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ddias-mo03/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:diasmontanodavid@gmail.com" title="Email">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg"
-      width="32"
-      height="32"
-      alt="Email"
-    />
+  &nbsp;
+  <a href="mailto:diasmontanodavid@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
   </a>
 </p>
