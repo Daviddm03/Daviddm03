@@ -33,26 +33,32 @@ A tip calculator inspired by my work in hospitality, distributing staff tips acr
 
 ---
 
-<h3>Connect</h3>
-
-<h3>Connect</h3>
+### Connect
 
 <p>
-  <a href="https://davidmontano.vercel.app/">
+  <a href="https://davidmontano.vercel.app/" title="Portfolio">
     <img
-      src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://cdn.jsdelivr.net/npm/@fortawesome/free-solid-svg-icons/svgs/globe.svg"
+      width="32"
+      height="32"
       alt="Portfolio"
     />
   </a>
-  <a href="https://www.linkedin.com/in/ddias-mo03/">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ddias-mo03/" title="LinkedIn">
     <img
-      src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="32"
+      height="32"
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:diasmontanodavid@gmail.com">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:diasmontanodavid@gmail.com" title="Email">
     <img
-      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg"
+      width="32"
+      height="32"
       alt="Email"
     />
   </a>
